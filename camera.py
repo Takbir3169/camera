@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-#-*- coding: utf-8 -*-
 #Made by Timur
 
 import requests, re , colorama
@@ -7,7 +5,7 @@ colorama.init()
 print("""
 \033[1;31m\033[1;37m                                                             
 \033[1;31m                                                                 
-\033[1;31m                                                                        Timur 
+\033[1;31m                                                                        Timur ---> @Takbir_co 
 \033[1;31m1) \033[1;37mUnited States                \033[1;31m31) \033[1;37mMexico                \033[1;31m61) \033[1;37mMoldova
 \033[1;31m2) \033[1;37mJapan                        \033[1;31m32) \033[1;37mFinland               \033[1;31m62) \033[1;37mNicaragua
 \033[1;31m3) \033[1;37mItaly                        \033[1;31m33) \033[1;37mChina                 \033[1;31m63) \033[1;37mMalta
